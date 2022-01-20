@@ -6,8 +6,6 @@ extern double x;
 extern double result;
 
 namespace Sofronov{
-    static void f() {
-        result = -sqrt(x);
-    }
+    void f();
 }
 
