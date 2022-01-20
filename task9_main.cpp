@@ -1,4 +1,5 @@
 #include "func_1.h"
+#include <iostream>
 
 int main() {
     std::cout << "Value х: " << x << std::endl;
