@@ -1,9 +1,9 @@
 #include <cmath>
 
-static double x = 2;
-static double result;
+double x = 2;
+double result;
 
-static void f() {
+void f() {
     result = -sqrt(x);
 }
 
